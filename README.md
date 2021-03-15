@@ -4,5 +4,5 @@
 
 ### About
 
-Resolves the address of the pointers for health and ammo values on Assault Cube and then uses the Windows APIs `ReadProcessMemory` and `WriteProcessMemory` to continuosly 
+Resolves the addresses of the pointers for health and ammo values on Assault Cube and then uses the Windows APIs `ReadProcessMemory` and `WriteProcessMemory` to continuosly 
 write to those addresses.
